@@ -2,68 +2,40 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:Test
+SUMMARY:Tareas varias
+DTSTART;VALUE=DATE:20240727
+DESCRIPTION:Arreglar cámara del menú\, gestionar  que la app sea solo ho
+ rizontal. Ver porque sale sin conexión al principio 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diseño de la zona de spawn
+DTSTART;VALUE=DATE:20240802
+DESCRIPTION:Inicio del desarrollo del mapa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arreglar inventario
+DTSTART;VALUE=DATE:20240731
+DESCRIPTION:Evitar que se pierdan objetos\, se borren\, cantidad
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arreglar inventario 
+DTSTART;VALUE=DATE:20240726
+DESCRIPTION:Coregir lo de subir defensa al jugador de lo que falta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Corregir formulas
+DTSTART;VALUE=DATE:20240728
+DESCRIPTION:Corregir formulas ataque 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web fotos
 DTSTART;VALUE=DATE:20240725
-DESCRIPTION:
+DESCRIPTION:Poner fotos en la web de manera provisional y poner la portada
+  bien 
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Traducion idiomas
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spawn servidor ui
-DESCRIPTION:manual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Servidor ui 
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Encantamiento ui
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mapa ui
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inicio configuracion opciones login
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Balancear clases
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Skill iniciales
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sistema de mensajes
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Enemigos basicos
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Npc iniciales
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sistema de ataque a los objetivos
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cambiar variables en el servidor donde estas
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Optimizar login
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Historia
-DESCRIPTION:
+SUMMARY:Datos UI
+DTSTART;VALUE=DATE:20240727
+DESCRIPTION:Actualizar los datos del Ui con los datos del jugador
 END:VEVENT
 END:VCALENDAR
