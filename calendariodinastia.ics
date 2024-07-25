@@ -18,11 +18,6 @@ DTSTART;VALUE=DATE:20240731
 DESCRIPTION:Evitar que se pierdan objetos\, se borren\, cantidad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arreglar inventario 
-DTSTART;VALUE=DATE:20240726
-DESCRIPTION:Coregir lo de subir defensa al jugador de lo que falta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Corregir formulas
 DTSTART;VALUE=DATE:20240728
 DESCRIPTION:Corregir formulas ataque 
