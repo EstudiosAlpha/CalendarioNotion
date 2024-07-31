@@ -2,10 +2,76 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//My calendar product//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:Tareas varias
-DTSTART;VALUE=DATE:20240727
-DESCRIPTION:Arreglar cámara del menú\, gestionar  que la app sea solo ho
- rizontal. Ver porque sale sin conexión al principio 
+SUMMARY:Nombre desarrollador
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Partículas enemigo ataque
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:arreglar enemigo si hay 2 player dentro 
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:crear marca de target
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crear primer enemigo
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ID generador de objetivos y jugadores
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ajustar habilidades para mas dinamismo
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ordenar codigo
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mana ataques consumo
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rendimiento pantalla login
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Música y ataque sonido
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Información del objeto seleccionado
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crear menú tienda Ui 
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:En funcion de la clase que se muestre en lo de habilidades
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crear la moneda del juego
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Añadir cantidad a los objetos
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foto portada web y arreglar texto presentacion
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Animación personajes muerte
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Diseño de la zona de spawn
@@ -21,16 +87,5 @@ BEGIN:VEVENT
 SUMMARY:Corregir formulas
 DTSTART;VALUE=DATE:20240728
 DESCRIPTION:Corregir formulas ataque 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Web fotos
-DTSTART;VALUE=DATE:20240725
-DESCRIPTION:Poner fotos en la web de manera provisional y poner la portada
-  bien 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datos UI
-DTSTART;VALUE=DATE:20240727
-DESCRIPTION:Actualizar los datos del Ui con los datos del jugador
 END:VEVENT
 END:VCALENDAR
